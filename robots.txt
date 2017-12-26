@@ -1,0 +1,9 @@
+User-agent: * Allow: /
+Allow: /archives/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+
+
+Sitemap: http://ershiyibai.cn/sitemap.xml
+Sitemap: http://ershiyibai.cn/baidusitemap.xml
